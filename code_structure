@@ -1,0 +1,5 @@
+"..._rawdata_process.do" files process ZTRAX raw data.
+"..._ZTRAX_agg.do" files mainly aggregate processed ZTRAX property data so that the data is ready for further analysis (in ArcGIS or Stata).
+"..._ZTRAX_analysis_....do" files merge property data, treatment data, and sales data together, and analyze the NextGen effects.
+
+Note that the raw data (ZTRAX, related to the rawdata_process do files) are not shared in dropbox due to it's size. Thus, you cannot experiment the "...rawdata_process.do" or "..._ZTRAX_agg.do" do files here without ZTRAX data on your local drive.
